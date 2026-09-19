@@ -80,7 +80,7 @@ Here is a comprehensive look at the programming languages, frameworks, and tools
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/Dino_owl" target="_blank">
+  <a href="https://github.com/Dino-owl" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:your-email@example.com" target="_blank">
@@ -92,5 +92,5 @@ Here is a comprehensive look at the programming languages, frameworks, and tools
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dino_owl&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Dino-owl&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
