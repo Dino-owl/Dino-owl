@@ -1,9 +1,13 @@
-<h1 align="center">Hi there, I'm Dino_owl! 🦉✨</h1>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/82eb3cb7-5258-41e2-a736-0aeee5b7fd3a" width="100%" alt="Banner" />
+</p>
+
+<h1 align="center">Hi there, I'm Dino_owl!✨</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam/Animated-Aesthetic-Icons/master/Animals/Owl.gif" width="100" align="right" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam/anim-cursor/master/Animated-Cursor/duck.gif" width="40" align="left" />
-  <em>Passionate Software Developer & Problem Solver. Building robust backends, scalable applications, and exploring the vast universe of code.</em>
+  <em>Passionate Software Developer & Graphics/Backend Enthusiast. Building robust applications, high-performance rendering systems, and exploring the vast universe of code.</em>
 </p>
 
 <br clear="all"/>
@@ -12,10 +16,10 @@
 
 ### 🚀 About Me
 
-* 🔭 I’m currently working on high-performance projects focusing heavily on **Java** and **Kotlin**.
+* 🔭 I’m currently working on high-performance projects focusing heavily on **Java**, **Kotlin**, and low-level graphics/game rendering using **LWJGL**, **Skia**, and **Skija**.
 * 🧠 I have a deep understanding of core programming concepts and am fluent in almost all common programming languages, web technologies, and frameworks.
-* ⚡ Fun fact: Just like an owl with its sharp vision and nocturnal focus, I hunt down complex bugs and optimize systems with precision! 🦉💻
-* 💬 Ask me about backend architecture, system design, or anything code-related.
+* ⚡ Fun fact: Just like an owl with its sharp vision and nocturnal focus, I hunt down complex bugs and optimize rendering systems with precision! 🦉💻
+* 💬 Ask me about game engines, backend architecture, graphics pipelines, or anything code-related.
 
 ---
 
@@ -26,6 +30,14 @@ Here is a comprehensive look at the programming languages, frameworks, and tools
 #### 💻 Programming Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,cs,c,js,ts,go,rust,php,ruby,swift" />
+</p>
+
+#### 🎨 Graphics, Rendering & Game Dev
+<p align="left">
+  <img src="https://img.shields.io/badge/LWJGL-333333?style=for-the-badge&logo=java&logoColor=orange" />
+  <img src="https://img.shields.io/badge/Skia-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Skija-000000?style=for-the-badge&logo=jetbrains&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=opengl" />
 </p>
 
 #### 🌐 Web & Backend Technologies
