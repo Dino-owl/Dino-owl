@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/82eb3cb7-5258-41e2-a736-0aeee5b7fd3a" width="100%" alt="Banner" />
+  <img src="https://github.com/user-attachments/assets/225d5096-294a-452d-849e-78053485ee6b" width="100%" alt="Banner" />
 </p>
 
 <h1 align="center">Hi there, I'm Dino_owl!✨</h1>
